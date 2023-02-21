@@ -19,13 +19,13 @@ E o e-mail estiver com o formato inválido
 Então O sistema deverá mostrar uma mensagem de alerta: <Resultado>
 
 Exemplos:
-|Nome   |Sobrenome|País  |Endereço      |Cidade|CEP     |Telefone    |E-mail          |Resultado                          |
-|Marcos |         |Brasil|Rua Z braz    |AP    |78000820|09600000    |teste@gmail.com |campos não preenchidos ou inválidos|
-|Gabriel|Marcondes|Brasil|              |      |        |0           |teste@gmail.com |campos não preenchidos ou inválidos|
-|       |         |      |Rua Mario     |BH    |78000820|0319090-.011|                |campos não preenchidos ou inválidos|
-|Marcos |Augusto  |Brasil|Rua Acre      |RJ    |20081000|021900000000|teste@Mail,com  |E-mail no formato inválido         |
-|       |         |      |              |      |        |            |teste@.com      |campos não preenchidos ou inválidos|
-|Maria  |Gabriela |Brasil|Dom Francisco |SP    |01031010|011999999999|teste@g.com.org |E-mail no formato inválido         |
-|João   |Gabriel  |Brasil|Afonso Cláudio|ES    |29600000|289000000999|teste_gmil.com  |E-mail no formato inválido         |
-|Gustavo|Leonardo |Brasil|Rua Nova      |MA    |65398000|984454554400|teste@hotmeil.br|E-mail no formato inválido         |
+|Nome   |Sobrenome|País  |Endereço      |Cidade |CEP     |Telefone    |E-mail          |Resultado                          |
+|Marcos |         |Brasil|Rua Z braz    |Macapá |68900015|09600000    |teste@gmail.com |campos não preenchidos ou inválidos|
+|Gabriel|Marcondes|Brasil|              |       |        |0           |teste@gmail.com |campos não preenchidos ou inválidos|
+|       |         |      |Rua Mario     |Machado|37750000|0319000-.011|                |campos não preenchidos ou inválidos|
+|Marcos |Augusto  |Brasil|Alameda A     |Niterói|24346061|021900000000|teste@Mail,com  |E-mail no formato inválido         |
+|       |         |      |              |       |        |            |teste@.com      |campos não preenchidos ou inválidos|
+|Maria  |Gabriela |Brasil|Rua Cedro     |Osasco |6184230 |011999999999|teste@g.com.org |E-mail no formato inválido         |
+|João   |Gabriel  |Brasil|Afonso Cláudio|Vitória|29600000|289000000999|teste_gmil.com  |E-mail no formato inválido         |
+|Gustavo|Leonardo |Brasil|R. Arari      |Manaus |69090789|984454554400|teste@hotmeil.br|E-mail no formato inválido         |
 
