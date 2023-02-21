@@ -1,7 +1,7 @@
 # language: pt
 
 Funcionalidade: Personalizar o produto para inserir no carrinho
-Como Cliente da loja EbacShop
+Como Cliente da loja Ebac-Shop
 Quero configurar meu produto com o meu tamanho e gosto,
 escolhendo a quantidade
 Para depois inserir no carrinho
